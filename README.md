@@ -40,7 +40,7 @@ demoland/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/demoland.git
+   git clone https://github.com/platilich/demoland.git
    ```
 
 2. **Open `index.html` in your browser:**
